@@ -1,4 +1,4 @@
-# Olá, me chamo Matheus Peterson 👋
+# Olá 👋
 
 ![Visitas ao Perfil](https://komarev.com/ghpvc/?matheuspeterson01=MatheusPeterson01&color=green)
 
@@ -19,16 +19,8 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <a href="https://github.com/matheuspeterson01">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</p>
 
 
 ## 📫 Como me encontrar
 
-- LinkedIn: [Acesse:](https://www.linkedin.com/in/matheus-peterson-39a88923b/)
+- LinkedIn: [Acesse](https://www.linkedin.com/in/matheus-peterson-39a88923b/)
