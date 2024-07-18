@@ -4,11 +4,11 @@
 
 ## 🚀 Sobre Mim
 
-- 🌱 Atualmente estou aprendendo **[React,Java,Python]**
-- 👯 Estou buscando colaborar em **[Projetos Front-End]**
-- 💬 Pergunte-me sobre **[React]**
-- 📫 Como me encontrar: **[matheuspeterson@icloud.com]**
-- ⚡ Fato curioso: **[Busque conhecimento mesmo sabendo.]**
+- 🌱 Atualmente estou aprendendo React,Java,Python
+- 👯 Estou buscando colaborar em Projetos Front-End
+- 💬 Pergunte-me sobre: O que achar necessario.
+- 📫 Como me encontrar: matheuspeterson@icloud.com
+- ⚡ Fato curioso: Busque conhecimento mesmo sabendo.
 
 ## 🛠 Tecnologias e Ferramentas
 
